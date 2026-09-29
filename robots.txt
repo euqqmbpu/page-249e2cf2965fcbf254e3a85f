@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.cwitmgt.cn/sitemap.xml
